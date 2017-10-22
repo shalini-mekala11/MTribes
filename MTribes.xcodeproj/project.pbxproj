@@ -10,12 +10,12 @@
 		A205CCEA1F996B7A003835F0 /* CarsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A205CCE91F996B7A003835F0 /* CarsList.swift */; };
 		A20666E41F9B4BF40014A4B5 /* CarSchedulePickupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20666E31F9B4BF40014A4B5 /* CarSchedulePickupViewController.swift */; };
 		A20666E61F9B5AC30014A4B5 /* clock.png in Resources */ = {isa = PBXBuildFile; fileRef = A20666E51F9B5AC30014A4B5 /* clock.png */; };
-		A20666E81F9B61AD0014A4B5 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = A20666E71F9B61AD0014A4B5 /* back.png */; };
 		A20666EB1F9C19A60014A4B5 /* UIImage+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20666EA1F9C19A60014A4B5 /* UIImage+Extensions.swift */; };
 		A20666ED1F9C19B20014A4B5 /* UIView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20666EC1F9C19B20014A4B5 /* UIView+Extensions.swift */; };
-		A20666EF1F9C28270014A4B5 /* m-tribes.png in Resources */ = {isa = PBXBuildFile; fileRef = A20666EE1F9C28270014A4B5 /* m-tribes.png */; };
 		A20666F11F9C2E2A0014A4B5 /* CarSchedulePickupPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20666F01F9C2E2A0014A4B5 /* CarSchedulePickupPresenter.swift */; };
 		A20666F31F9C404D0014A4B5 /* CarScheduleViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20666F21F9C404D0014A4B5 /* CarScheduleViewCell.swift */; };
+		A20667141F9C537C0014A4B5 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = A20667121F9C537C0014A4B5 /* back.png */; };
+		A20667151F9C537C0014A4B5 /* m-tribes.png in Resources */ = {isa = PBXBuildFile; fileRef = A20667131F9C537C0014A4B5 /* m-tribes.png */; };
 		A223341E1F9AD5D4005518F4 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A223341D1F9AD5D4005518F4 /* Localizable.strings */; };
 		A22334201F9AE170005518F4 /* CarsWebServiceProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = A223341F1F9AE170005518F4 /* CarsWebServiceProtocol.swift */; };
 		A22334221F9AE1B5005518F4 /* CarsPersistentStoreProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22334211F9AE1B5005518F4 /* CarsPersistentStoreProtocol.swift */; };
@@ -63,12 +63,12 @@
 		A205CCE91F996B7A003835F0 /* CarsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarsList.swift; sourceTree = "<group>"; };
 		A20666E31F9B4BF40014A4B5 /* CarSchedulePickupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarSchedulePickupViewController.swift; sourceTree = "<group>"; };
 		A20666E51F9B5AC30014A4B5 /* clock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clock.png; sourceTree = "<group>"; };
-		A20666E71F9B61AD0014A4B5 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back.png; path = MTribes/back.png; sourceTree = SOURCE_ROOT; };
 		A20666EA1F9C19A60014A4B5 /* UIImage+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Extensions.swift"; sourceTree = "<group>"; };
 		A20666EC1F9C19B20014A4B5 /* UIView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extensions.swift"; sourceTree = "<group>"; };
-		A20666EE1F9C28270014A4B5 /* m-tribes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "m-tribes.png"; path = "MTribes/m-tribes.png"; sourceTree = SOURCE_ROOT; };
 		A20666F01F9C2E2A0014A4B5 /* CarSchedulePickupPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarSchedulePickupPresenter.swift; sourceTree = "<group>"; };
 		A20666F21F9C404D0014A4B5 /* CarScheduleViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarScheduleViewCell.swift; sourceTree = "<group>"; };
+		A20667121F9C537C0014A4B5 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		A20667131F9C537C0014A4B5 /* m-tribes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "m-tribes.png"; sourceTree = "<group>"; };
 		A223341D1F9AD5D4005518F4 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		A223341F1F9AE170005518F4 /* CarsWebServiceProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarsWebServiceProtocol.swift; sourceTree = "<group>"; };
 		A22334211F9AE1B5005518F4 /* CarsPersistentStoreProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarsPersistentStoreProtocol.swift; sourceTree = "<group>"; };
@@ -153,8 +153,8 @@
 		A223342A1F9B29FB005518F4 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				A20666EE1F9C28270014A4B5 /* m-tribes.png */,
-				A20666E71F9B61AD0014A4B5 /* back.png */,
+				A20667121F9C537C0014A4B5 /* back.png */,
+				A20667131F9C537C0014A4B5 /* m-tribes.png */,
 				A20666E51F9B5AC30014A4B5 /* clock.png */,
 				A22334241F9AF77D005518F4 /* car.png */,
 				A22334281F9B086D005518F4 /* car1.jpeg */,
@@ -408,9 +408,9 @@
 				A296B3731F98A72A009968D9 /* LaunchScreen.storyboard in Resources */,
 				A22334251F9AF77D005518F4 /* car.png in Resources */,
 				A296B3701F98A72A009968D9 /* Assets.xcassets in Resources */,
-				A20666E81F9B61AD0014A4B5 /* back.png in Resources */,
+				A20667141F9C537C0014A4B5 /* back.png in Resources */,
 				A22334291F9B086D005518F4 /* car1.jpeg in Resources */,
-				A20666EF1F9C28270014A4B5 /* m-tribes.png in Resources */,
+				A20667151F9C537C0014A4B5 /* m-tribes.png in Resources */,
 				A20666E61F9B5AC30014A4B5 /* clock.png in Resources */,
 				A296B36E1F98A72A009968D9 /* Main.storyboard in Resources */,
 			);
