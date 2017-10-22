@@ -1,0 +1,6 @@
+framework module Pods_MTribes {
+  umbrella header "Pods-MTribes-umbrella.h"
+
+  export *
+  module * { export * }
+}

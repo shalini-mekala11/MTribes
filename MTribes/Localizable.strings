@@ -1,0 +1,40 @@
+/* List view type*/
+"LIST_VIEW" = "List";
+
+/* Map view type*/
+"MAP_VIEW" = "Map";
+
+/*Car Strings*/
+"FUEL" = "lt";
+
+/* Map view type*/
+"CONDITION" = "Condition %@";
+
+"ERROR_TILTE" = "Error";
+
+"ERROR_MESSAGE" = "We are unable to load results. Please try again later.";
+
+"ERROR_ACTION" = "OK";
+
+"AMOUNT_PAID" = "Rate: %@/hr";
+
+"SELECT_TIME" = "Confirm";
+
+"SCHEDULE" = "Schedule";
+
+"SUCCESS_TILTE" = "Success";
+
+"SUCCESS_MESSAGE" = "Your car rental pickup is successfully schedule.";
+
+"SUCCESS_ACTION" = "OK";
+
+"PICKUP_SCHEDULED" = "Pickup scheduled at: %@";
+
+"NOTIFICATION_MESSAGE" = "Don't forget to pickup car %@ from %@";
+
+"NOTIFICATION_TITLE" = "Rental pickup";
+
+"ENGINE_TYPE" = "Engine type %@";
+
+"FUEL" = "Fuel %@";
+
