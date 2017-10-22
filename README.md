@@ -22,6 +22,7 @@ User can choose to select a time for pickup using the overlay view and confirm b
 
 A User notification will be locally delivered to the device at the scheduled time reminding the user about the pickup of the car.
 
+Functionality to schedule a pickup is only available on the mapview and not the listview at the moment. 
 
 
 
